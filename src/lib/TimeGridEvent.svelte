@@ -1,4 +1,4 @@
-<div>
+<div style="background-color: pink; height: 100%">
 	{calendarEvent.title}
 </div>
 

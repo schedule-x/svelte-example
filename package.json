@@ -31,7 +31,7 @@
 	},
 	"type": "module",
 	"dependencies": {
-		"@schedule-x/svelte": "^1.0.0",
+		"@schedule-x/svelte": "^1.0.1",
 		"@schedule-x/theme-default": "^1.48.0"
 	}
 }
